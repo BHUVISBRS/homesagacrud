@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+
+/*  */
+/* .container { */
+/*  */
+/* display: flex; */
+/* justify-content: center; */
+/* align-items: center; */
+/* gap: 10px; */
+/* padding-top: 30px; */
+/* font-size: larger; */
+/* text-decoration: none; */
+/* color: #ffff; */
+/*  */
+/* } */
+
+
+
+.betton {
+
+  background-color: #0f04aa;
+  border: none;
+  color: white;
+  margin-left: 500px;
+}
+
+.tablecontainer {
+  width: 600px;
+  margin-left: 300px;
+  margin-top: 150px;
+}
+
+.table th {
+  text-align: left;
+  background-color: #0f04aa;
+  color: white;
+
+}
+
+
+.table td,
+th {
+
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+
+
+.tablebutton {
+  background-color: #0f04aa;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  gap: 10px;
+
+}
